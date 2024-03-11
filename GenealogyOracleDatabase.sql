@@ -156,7 +156,7 @@ Note: There are two different King Jehorams.
 	  - 2 Kings 8:16 KJV "And in the fifth year of Joram the son of Ahab king of Israel, 
 	  					  Jehoshaphat being then king of Judah, Jehoram the son of Jehoshaphat king of Judah began to reign."
 
-	  Jehoram son of Jehosaphat, according to 2 Chrinicles 21:16-20, was king over Jerusalem/Judah (31°46'N 35°12'E). 
+	  Jehoram son of Jehosaphat, according to 2 Chronicles 21:16-20, was king over Jerusalem/Judah (31°46'N 35°12'E). 
 	  This geographically maps to the 2 Southern Tribes of Judah and Benjamin:
 	  
 	  - 2 Chronicles 21:16 KJV "Moreover the LORD stirred up against Jehoram the 
@@ -271,7 +271,7 @@ Note: There are two different King Jehorams.
 	  - 2 Kings 8:16 KJV "And in the fifth year of Joram the son of Ahab king of Israel, 
 	  					  Jehoshaphat being then king of Judah, Jehoram the son of Jehoshaphat king of Judah began to reign."
 
-	  Jehoram son of Jehosaphat, according to 2 Chrinicles 21:16-20, was king over Jerusalem/Judah (31°46'N 35°12'E). 
+	  Jehoram son of Jehosaphat, according to 2 Chronicles 21:16-20, was king over Jerusalem/Judah (31°46'N 35°12'E). 
 	  This geographically maps to the 2 Southern Tribes of Judah and Benjamin:
 	  
 	  - 2 Chronicles 21:16 KJV "Moreover the LORD stirred up against Jehoram the 

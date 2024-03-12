@@ -1,0 +1,11 @@
+"generation","name","concordance_id","gender","gender_citation","parent","parent_citation","sibling","sibling_citation","lifespan_years","lifespan_citation","profession","profession_citation"
+2,"Cain","H7014","M","Genesis 4:1","Eve","Genesis 4:1","Abel & Seth","Genesis 4:2, Genesis 4:25",NULL,NULL,"Tiller of the Ground","Genesis 4:2"
+3,"Enoch","H2585","M","Genesis 4:17","Cain","Genesis 4:17",NULL,NULL,NULL,NULL,NULL,NULL
+4,"Irad","H5897","M","Strong's Hebrew # 5897 (masculine noun)","Enoch","Genesis 4:18",NULL,NULL,NULL,NULL,NULL,NULL
+5,"Mehujael","H4232","M","Strong's Hebrew # 4232 (masculine noun)","Irad","Genesis 4:18",NULL,NULL,NULL,NULL,NULL,NULL
+6,"Methusael","H4967","M","Strong's Hebrew # 4967 (masculine noun)","Mehujael","Genesis 4:18",NULL,NULL,NULL,NULL,NULL,NULL
+7,"Lamech","H3929","M","Strong's Hebrew # 3929 (masculine noun)","Methusael","Genesis 4:18",NULL,NULL,NULL,NULL,NULL,NULL
+8,"Jabal","H2989","M","Genesis 4:20","Lamech & Adah","Genesis 4:19-20","Jubal","Genesis 4:20-21",NULL,NULL,"Tent Dweller and Cattle Owner","Genesis 4:20"
+8,"Jubal","H3106","M","Genesis 4:21","Lamech & Adah","Genesis 4:19-21","Jabal","Genesis 4:20-21",NULL,NULL,"Harp and Organ Player","Genesis 4:21"
+8,"Tubalcain","H8423","M","Strong's Hebrew # 8423 (masculine noun)","Lamech & Zillah","Genesis 4:19, Genesis 4:22","Naamah","Genesis 4:22",NULL,NULL,"Instructer of every artificer in brass and iron/ Metal Craftsman","Genesis 4:22, Strong's Hebrew # 2794"
+8,"Naamah","H5279","F","Genesis 4:22","Lamech & Zillah","Genesis 4:19, Genesis 4:22","Tubalcain","Genesis 4:22",NULL,NULL,NULL,NULL

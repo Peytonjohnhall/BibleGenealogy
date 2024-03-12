@@ -68,33 +68,33 @@ Note: The reason why duplicate 'SolomonToJoseph' tables are created:
     branch off between Solomon and Nathan.
     Therefore, the PRIMARY KEY unique identifier is "Generation_In_Hexadecimal". */
 CREATE TABLE GenealogyNathanToHeli (
-	Generation NUMBER(3) NOT NULL,
+    Generation NUMBER(3) NOT NULL,
     Name VARCHAR2(100) NOT NULL,
     Concordance_ID VARCHAR2(5) NOT NULL,
     Generation_In_Hexadecimal VARCHAR2(2) PRIMARY KEY,
-	Gender VARCHAR2(1) NOT NULL,
+    Gender VARCHAR2(1) NOT NULL,
     Gender_Citation VARCHAR2(50) NOT NULL,
     Parent VARCHAR2(100) NOT NULL,
     Parent_Citation VARCHAR2(50) NOT NULL,
-	Age_when_individual_Begat_subsequent_child NUMBER(3),
+    Age_when_individual_Begat_subsequent_child NUMBER(3),
     Begat_Age_Citation VARCHAR2(50),
     Lifespan_Years NUMBER(3),
     Lifespan_Citation VARCHAR2(50)
 );
 
 CREATE TABLE GenealogyOfCain (
-	Generation NUMBER(2) NOT NULL,
-	Name VARCHAR2(21) NOT NULL,
+    Generation NUMBER(2) NOT NULL,
+    Name VARCHAR2(21) NOT NULL,
     Concordance_ID VARCHAR2(5) PRIMARY KEY,
-	Gender VARCHAR2(1) NOT NULL,
+    Gender VARCHAR2(1) NOT NULL,
     Gender_Citation VARCHAR2(50) NOT NULL,
-	Parent VARCHAR2(21) NOT NULL,
+    Parent VARCHAR2(21) NOT NULL,
     Parent_Citation VARCHAR2(50) NOT NULL,
-	Sibling VARCHAR2(15), -- i.e. brother or sister
+    Sibling VARCHAR2(15), -- i.e. brother or sister
     Sibling_Citation VARCHAR2(25),
-	Lifespan_Years NUMBER(3),
+    Lifespan_Years NUMBER(3),
     Lifespan_Citation VARCHAR2(50),
-	Profession VARCHAR2(100),
+    Profession VARCHAR2(100),
     Profession_Citation VARCHAR2(50)
 );
 

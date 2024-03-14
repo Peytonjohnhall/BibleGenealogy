@@ -1,7 +1,7 @@
 ---
 title: "Lifespans of Jesus' Ancestors"
 author: "Peyton John Hall"
-date: "03/13/2024"
+date: "03/14/2024"
 output:
   pdf_document: default
   html_document: default
@@ -46,7 +46,7 @@ Lifespans_cleaned$Name <- factor(Lifespans_cleaned$Name, levels = Lifespans_clea
 ggplot(Lifespans_cleaned, aes(x = Name, y = Lifespan_Years)) +
   geom_bar(stat = "identity", color = "black", fill = "maroon") +
   labs(title = "Lifespans of Jesus' Ancestors", x = "Names", y = "Lifespan Years",
-       caption = "Sources (KJV): Ge 5:3-4, 5:6-10, 5:12-23, 5:25-31, 9:29, 11:10-25, 11:32, 25:7, 35:28, 47:28, 2 Sa 5:3-4") +
+       caption = "Sources (KJV): Ge 5:3-10, 5:12-23, 5:25-31, 9:29, 11:10-25, 11:32, 25:7, 35:28, 47:28, 2 Sa 5:3-4") +
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
         plot.title = element_text(hjust = 0.5),
         plot.caption = element_text(hjust = 0.5))

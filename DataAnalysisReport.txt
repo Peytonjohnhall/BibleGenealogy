@@ -1,0 +1,39 @@
+R Markdown & Knitted PDF Summary:
+
+Lifespans-of-Jesus--Ancestors.pdf
+https://github.com/Peytonjohnhall/BiblionGenealogy/blob/main/Lifespans-of-Jesus--Ancestors.pdf 
+Lifespans of Jesus' Ancestors.Rmd 
+https://github.com/Peytonjohnhall/BiblionGenealogy/blob/main/Lifespans%20of%20Jesus'%20Ancestors.Rmd 
+  - A clear, readable bar graph of lifespans is shown. It is titled “Lifespans of Jesus’ Ancestors.” 
+    According to the graph, based on Bible sources, the lifespans of individuals born after Noah declined exponentially. 
+    Therefore, if it were the case that there was a flood of Noah, then this data trend could likely be the consequence of various pollutants.
+
+SQL Code Summary:
+
+GenealogyOracleDatabase.sql
+https://github.com/Peytonjohnhall/BiblionGenealogy/blob/main/GenealogyOracleDatabase.sql 
+GenealogyMYSQLDatabase.sql
+https://github.com/Peytonjohnhall/BiblionGenealogy/blob/main/GenealogyMYSQLDatabase.sql 
+  - All of the data was carefully implemented into the insert statements. 
+  - Sources are implemented for specific citations. 
+  - There is a variation between Luke 3:36 and both Genesis 11:12 and 1 Chronicles 1:18. 
+    If Arphaxad begat Cainan, and if Cainan begat Salah, then it logically follows that 
+    Arphaxad begat Salah. That is, according to 
+    Strong's Definition of Begat: יָלַד (Strong's Hebrew # 3205) "yaw-lad'" - To bring forth. To show lineage.
+  - There are two different King Jehorams. There is Jehoram son of Ahab king of Israel, and there is Jehoram son of Jehosaphat king of Judah.
+  - In the English tongue, a discrepancy lies in the statements of Jehoiachin's age when he 
+    began to reign being eight in 2 Chronicles 36:9 and eighteen in 2 Kings 24:8. In the Hebrew tongue, 
+    eight and eighteen share the same consonant: "shem-o-neh'". As a conjunction, the word ten, pronounced "aw-sawr'" 
+    in the Hebrew, is included in 2 Kings 24:8. This conjunction of "shem-o-neh'" (eight) and "aw-sawr'" (ten) in the Hebrew translates in the English to "eighteen". 
+    The word "eight" has the same article in 2 Kings 24:8 and 2 Chronicles 36:9.
+
+QueriedResults Subdirectory/ Folder Summary:
+
+https://github.com/Peytonjohnhall/BiblionGenealogy/tree/main/QueriedResults 
+  - The names of Cain’s descendants (Kenites) mimic the names of Adam’s descendants.
+  - No explicit lifespans are written in the Bible for individuals ranging from Judah (generation 24) to Jesse (generation 33), 
+    Solomon to Joseph, and Nathan to Heli. Also, Cainan’s lifespan is not written (the Cainan at generation 13, not generation 4). 
+    According to this data, it would be mathematically impossible to calculate what year someone like Adam would have been born in. 
+    Therefore, regardless of Jesus Christ’s date of birth, there is an insufficient amount of data points to trace ages of 
+    Genesis characters based solely on Jesus’ date of birth.
+  - Joash, Amaziah, Azariah, and Jehoiakim are excluded in Matthew 1:6-16 but included in 1 Chronicles 3:10-16.

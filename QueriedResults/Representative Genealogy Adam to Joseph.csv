@@ -1,0 +1,61 @@
+"Generation","Name","Gender","Lifespan Years","Age When Child Was Begotten","Citation: Begat","Citation: Lifespan"
+1,"'Eth-'Ha'adham (a.k.a. Adam)","M",930,130,"Genesis 5:3","Genesis 5:3-4 (130+800=930years)"
+2,"Seth","M",912,105,"Genesis 5:6","Genesis 5:6-8 (105+807=912years)"
+3,"Enos","M",905,90,"Genesis 5:9","Genesis 5:9-10 (90+815=905years)"
+4,"Cainan","M",910,70,"Genesis 5:12","Genesis 5:12-14 (70+840=910years)"
+5,"Mahalaleel","M",895,65,"Genesis 5:15","Genesis 5:15-17 (65+830=895years)"
+6,"Jared","M",962,162,"Genesis 5:18","Genesis 5:18-20 (162+800=962years)"
+7,"Enoch","M",365,65,"Genesis 5:21","Genesis 5:21-23 (65+300=365years)"
+8,"Methuselah","M",969,187,"Genesis 5:25","Genesis 5:25-27 (187+782=969years)"
+9,"Lamech","M",777,182,"Genesis 5:28","Genesis 5:28-31 (182+595=777years)"
+10,"Noah","M",950,500,"Genesis 5:32 (500years)","Genesis 9:29 (950years)"
+11,"Shem","M",600,100,"Genesis 11:10","Genesis 11:10-11 (100+500=600years)"
+12,"Arphaxad","M",438,35,"Genesis 11:12","Genesis 11:12-13 (35+403=438years)"
+13,"Cainan","M",NULL,NULL,NULL,NULL
+14,"Salah","M",433,30,"Genesis 11:14","Genesis 11:14-15 (30+403=433years)"
+15,"Eber","M",464,34,"Genesis 11:16","Genesis 11:16-17 (34+430=464years)"
+16,"Peleg","M",239,30,"Genesis 11:18","Genesis 11:18-19 (30+209=239years)"
+17,"Reu","M",239,32,"Genesis 11:20","Genesis 11:20-21 (32+207=239years)"
+18,"Serug","M",230,30,"Genesis 11:22","Genesis 11:22-23 (30+200=230years)"
+19,"Nahor","M",148,29,"Genesis 11:24","Genesis 11:24-25 (29+119=148years)"
+20,"Terah","M",205,70,"Genesis 11:26 (70years)","Genesis 11:32 (205years)"
+21,"Abraham (a.k.a. Abram)","M",175,100,"Genesis 21:5 (100years)","Genesis 25:7 (175years)"
+22,"Isaac","M",180,60,"Genesis 25:26 (60years)","Genesis 35:28 (180years)"
+23,"Jacob (a.k.a. Israel)","M",147,NULL,NULL,"Genesis 47:28 (147years)"
+24,"Judah","M",NULL,NULL,NULL,NULL
+25,"Pharez","M",NULL,NULL,NULL,NULL
+26,"Hezron","M",NULL,NULL,NULL,NULL
+27,"Ram","M",NULL,NULL,NULL,NULL
+28,"Amminadab","M",NULL,NULL,NULL,NULL
+29,"Nahshon","M",NULL,NULL,NULL,NULL
+30,"Salmon","M",NULL,NULL,NULL,NULL
+31,"Boaz","M",NULL,NULL,NULL,NULL
+32,"Obed","M",NULL,NULL,NULL,NULL
+33,"Jesse","M",NULL,NULL,NULL,NULL
+34,"David, King of Israel (Undivided Kingdom)","M",70,NULL,NULL,"2 Samuel 5:3-4 (30+40=70years), 1 Kings 2:10-11 (40yearsasking)"
+35,"Solomon, King of Israel (Undivided Kingdom)","M",NULL,NULL,NULL,NULL
+36,"Rehoboam, King of Judah","M",NULL,NULL,NULL,NULL
+37,"Abijah (a.k.a. Abijam & Abia), King of Judah","M",NULL,NULL,NULL,NULL
+38,"Asa, King of Judah","M",NULL,NULL,NULL,NULL
+39,"Jehoshaphat, King of Judah","M",NULL,NULL,NULL,NULL
+40,"Jehoram (a.k.a. Joram in 1 Ch. 3:11), King of Judah","M",NULL,NULL,NULL,NULL
+41,"Ahaziah, King of Judah","M",NULL,NULL,NULL,NULL
+42,"Jotham, King of Judah","M",NULL,NULL,NULL,NULL
+43,"Ahaz, King of Judah","M",NULL,NULL,NULL,NULL
+44,"Hezekiah, King of Judah","M",NULL,NULL,NULL,NULL
+45,"Manasseh, King of Judah","M",NULL,NULL,NULL,NULL
+46,"Amon, King of Judah","M",NULL,NULL,NULL,NULL
+47,"Josiah, King of Judah","M",NULL,NULL,NULL,NULL
+48,"Jeconiah (a.k.a. Jehoiachin), King of Judah","M",NULL,NULL,NULL,NULL
+49,"Salathiel","M",NULL,NULL,NULL,NULL
+50,"Zorobabel (a.k.a. Zerubbabel), Governer of Judah","M",NULL,NULL,NULL,NULL
+51,"Abiud",NULL,NULL,NULL,NULL,NULL
+52,"Eliakim","M",NULL,NULL,NULL,NULL
+53,"Azor","M",NULL,NULL,NULL,NULL
+54,"Sadoc","M",NULL,NULL,NULL,NULL
+55,"Achim","M",NULL,NULL,NULL,NULL
+56,"Eliud","M",NULL,NULL,NULL,NULL
+57,"Eleazar","M",NULL,NULL,NULL,NULL
+58,"Matthan","M",NULL,NULL,NULL,NULL
+59,"Jacob","M",NULL,NULL,NULL,NULL
+60,"Joseph (Mary's Husband)","M",NULL,NULL,NULL,NULL

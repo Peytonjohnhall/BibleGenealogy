@@ -247,7 +247,7 @@ Strong's Definition of Eighteen: עֶשֶׂר (Strong's Hebrew # 8083 & 6240) "s
 	  
 Note: Three months and ten days is still three months. "Three months and ten days" is more specific than "three months."
 */
-INSERT INTO RepresentativeGenealogySolomonToJoseph VALUES ('48', 'Jeconiah (a.k.a. Jehoiachin), King of Judah', 'H3078', 'M', 'Strong''s Hebrew # 3078 & 3204 (masculine noun)', 'Josiah', 'Matthew 1:11', NULL, NULL, NULL, NULL, 'Either 8 or 18. He became king in 597BC.', '2 Kings 24:8 (18yearsold), 2 Chronicles 36:9 (8yearsold)', '3months & 10days', '2 Kings 24:8 (3monthreign), 2 Kings 24:12 (Surrendured in the eighth year of Nebuchadnezzar II''s reign), 2 Chronicles 36:9 (3month+10dayreign)');
+INSERT INTO RepresentativeGenealogySolomonToJoseph VALUES ('48', 'Jeconiah (a.k.a. Jehoiachin), King of Judah', 'H3078', 'M', 'Strong''s Hebrew # 3078 & 3204 (masculine noun)', 'Josiah', 'Matthew 1:11', NULL, NULL, NULL, NULL, 'Either 8 or 18.', '2 Kings 24:8, 2 Chronicles 36:9', '3months & 10days', '2 Kings 24:8, 2 Kings 24:12, 2 Chronicles 36:9');
 INSERT INTO RepresentativeGenealogySolomonToJoseph VALUES ('49', 'Salathiel', 'H7597', 'M', '1 Chronicles 3:17', 'Jeconiah', '1 Chronicles 3:17, Matthew 1:12', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
 INSERT INTO RepresentativeGenealogySolomonToJoseph VALUES ('50', 'Zorobabel (a.k.a. Zerubbabel), Governer of Judah', 'H2216', 'M', 'Haggai 1:1', 'Shealtiel', 'Ezra 3:2, Haggai 1:1, Matthew 1:12', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL); 
 -- Note: Zorobabel returned to Jerusalem as Governor of Judah after the Babylonian exile according to Ezra 3:1-2 and Haggai 1:1-2.
@@ -366,7 +366,7 @@ Strong's Definition of Eighteen: עֶשֶׂר (Strong's Hebrew # 8083 & 6240) "s
 	  
 Note: Three months and ten days is still three months. "Three months and ten days" is more specific than "three months."
 */
-INSERT INTO BiologicalGenealogySolomonToJoseph VALUES ('52', 'Jeconiah (a.k.a. Jehoiachin), King of Judah', 'H3078', 'M', 'Strong''s Hebrew # 3078 & 3204 (masculine noun)', 'Jehoiakim', '2 Kings 24:6, 1 Chronicles 3:16', NULL, NULL, NULL, NULL, 'Either 8 or 18. He became king in 597BC.', '2 Kings 24:8 (18yearsold), 2 Chronicles 36:9 (8yearsold)', '3months & 10days', '2 Kings 24:8 (3monthreign), 2 Kings 24:12 (Surrendured in the eighth year of Nebuchadnezzar II''s reign), 2 Chronicles 36:9 (3month+10dayreign)');
+INSERT INTO BiologicalGenealogySolomonToJoseph VALUES ('52', 'Jeconiah (a.k.a. Jehoiachin), King of Judah', 'H3078', 'M', 'Strong''s Hebrew # 3078 & 3204 (masculine noun)', 'Jehoiakim', '2 Kings 24:6, 1 Chronicles 3:16', NULL, NULL, NULL, NULL, 'Either 8 or 18.', '2 Kings 24:8, 2 Chronicles 36:9', '3months & 10days', '2 Kings 24:8, 2 Kings 24:12, 2 Chronicles 36:9');
 INSERT INTO BiologicalGenealogySolomonToJoseph VALUES ('53', 'Salathiel', 'H7597', 'M', '1 Chronicles 3:17', 'Jeconiah', '1 Chronicles 3:17, Matthew 1:12', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
 INSERT INTO BiologicalGenealogySolomonToJoseph VALUES ('54', 'Zorobabel (a.k.a. Zerubbabel), Governer of Judah', 'H2216', 'M', 'Haggai 1:1', 'Shealtiel', 'Ezra 3:2, Haggai 1:1, Matthew 1:12', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL); 
 -- Note: Zorobabel returned to Jerusalem as Governor of Judah after the Babylonian exile according to Ezra 3:1-2 and Haggai 1:1-2.

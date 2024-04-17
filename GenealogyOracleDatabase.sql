@@ -100,7 +100,7 @@ CREATE TABLE GenealogyOfCain (
 
 
 INSERT INTO GenealogyAdamToDavid VALUES ('1', '''Eth-''Ha''adham (a.k.a. Adam)', 'H120', 'M', 'Genesis 5:3', 'God', 'Genesis 2:7, Luke 3:38', '130', 'Genesis 5:3', '930', 'Genesis 5:3-4');
-INSERT INTO GenealogyAdamToDavid VALUES ('2', 'Seth', 'H8352', 'M', 'Genesis 5:7', '''Eth-''Ha''adham', '1 Chronicles 1:1', '105', 'Genesis 5:6', '912', 'Genesis 5:6-8');
+INSERT INTO GenealogyAdamToDavid VALUES ('2', 'Seth', 'H8352', 'M', 'Genesis 5:7', '''Eth-''Ha''adham', '1 Chronicles 1:1, Luke 3:38', '105', 'Genesis 5:6', '912', 'Genesis 5:6-8');
 INSERT INTO GenealogyAdamToDavid VALUES ('3', 'Enos', 'H583', 'M', 'Genesis 5:10', 'Seth', '1 Chronicles 1:1, Luke 3:38', '90', 'Genesis 5:9', '905', 'Genesis 5:9-10');
 INSERT INTO GenealogyAdamToDavid VALUES ('4', 'Cainan', 'H7018', 'M', 'Genesis 5:13', 'Enos', 'Genesis 5:9, 1 Chronicles 1:2, Luke 3:37-38', '70', 'Genesis 5:12', '910', 'Genesis 5:12-14');
 INSERT INTO GenealogyAdamToDavid VALUES ('5', 'Mahalaleel', 'H4111', 'M', 'Genesis 5:16', 'Cainan', 'Genesis 5:12, 1 Chronicles 1:2, Luke 3:37', '65', 'Genesis 5:15', '895', 'Genesis 5:15-17');
@@ -109,7 +109,7 @@ INSERT INTO GenealogyAdamToDavid VALUES ('7', 'Enoch', 'H2585', 'M', 'Genesis 5:
 INSERT INTO GenealogyAdamToDavid VALUES ('8', 'Methuselah', 'H4968', 'M', 'Genesis 5:27', 'Enoch', 'Genesis 5:21, 1 Chronicles 1:3, Luke 3:37', '187', 'Genesis 5:25', '969', 'Genesis 5:25-27');
 INSERT INTO GenealogyAdamToDavid VALUES ('9', 'Lamech', 'H3929', 'M', 'Genesis 5:29', 'Methuselah', 'Genesis 5:25, 1 Chronicles 1:3, Luke 3:36-37', '182', 'Genesis 5:28', '777', 'Genesis 5:28-31');
 INSERT INTO GenealogyAdamToDavid VALUES ('10', 'Noah', 'H5146', 'M', 'Genesis 5:29', 'Lamech', 'Genesis 5:30, 1 Chronicles 1:4, Luke 3:36', '500', 'Genesis 5:32', '950', 'Genesis 9:29');
-INSERT INTO GenealogyAdamToDavid VALUES ('11', 'Shem', 'H8035', 'M', 'Genesis 11;11', 'Noah', 'Genesis 10:1, 1 Chronicles 1:4, Luke 3:37', '100', 'Genesis 11:10', '600', 'Genesis 11:10-11');
+INSERT INTO GenealogyAdamToDavid VALUES ('11', 'Shem', 'H8035', 'M', 'Genesis 11;11', 'Noah', 'Genesis 10:1, 1 Chronicles 1:4, Luke 3:36', '100', 'Genesis 11:10', '600', 'Genesis 11:10-11');
 INSERT INTO GenealogyAdamToDavid VALUES ('12', 'Arphaxad', 'H775', 'M', 'Genesis 11:13', 'Shem', 'Genesis 10:22, 1 Chronicles 1:17, Luke 3:36', '35', 'Genesis 11:12', '438', 'Genesis 11:12-13');
 /* 
 Note: There is a variation between Luke 3:36 and both Genesis 11:12 
@@ -125,7 +125,7 @@ Strong's Definition of Begat: יָלַד (Strong's Hebrew # 3205) "yaw-lad'" - T
 Note: For full data collection, Cainan, the son of Arphaxad, is included in the table at generation 13.
 */
 INSERT INTO GenealogyAdamToDavid VALUES ('13', 'Cainan', 'G2536', 'M', 'Luke 3:36', 'Arphaxad', 'Luke 3:36', NULL, NULL, NULL, NULL);
-INSERT INTO GenealogyAdamToDavid VALUES ('14', 'Salah', 'H7974', 'M', 'Genesis 11:15', 'Cainan', 'Luke 3:35-36', '30', 'Genesis 11:14', '433', 'Genesis 11:14-15');
+INSERT INTO GenealogyAdamToDavid VALUES ('14', 'Salah', 'H7974', 'M', 'Genesis 11:15', 'Cainan', 'Genesis 10:24, 1 Chronicles 1:18, Luke 3:35-36', '30', 'Genesis 11:14', '433', 'Genesis 11:14-15');
 INSERT INTO GenealogyAdamToDavid VALUES ('15', 'Eber', 'H5677', 'M', 'Genesis 11:17', 'Salah', 'Genesis 11:14, 1 Chronicles 1:18, Luke 3:35', '34', 'Genesis 11:16', '464', 'Genesis 11:16-17');
 INSERT INTO GenealogyAdamToDavid VALUES ('16', 'Peleg', 'H6389', 'M', 'Genesis 11:19', 'Eber', 'Genesis 11:16, 1 Chronicles 1:19, 1 Chronicles 1:25, Luke 3:35', '30', 'Genesis 11:18', '239', 'Genesis 11:18-19');
 INSERT INTO GenealogyAdamToDavid VALUES ('17', 'Reu', 'H7466', 'M', 'Genesis 11:21', 'Peleg', 'Genesis 11:18, 1 Chronicles 1:25, Luke 3:35', '32', 'Genesis 11:20', '239', 'Genesis 11:20-21');

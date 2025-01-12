@@ -22,7 +22,7 @@ library(readr)
 
 ```{r Read CSV}
 # MacBook Pro Note: hover over file + option + command + c  + command + v
-Lifespans <- read_csv("/Users/peytonhall/Desktop/BiblionGenealogy/QueriedResults/Individuals With Documented Lifespans.csv")
+Lifespans <- read_csv("/Users/peytonhall/Desktop/BibleGenealogy/QueriedResults/Individuals With Documented Lifespans.csv")
 # Lifespans
 ```
 
